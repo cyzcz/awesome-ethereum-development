@@ -130,6 +130,7 @@
 
 ## Other lists
 - [bekatom/awesome-ethereum](https://github.com/bekatom/awesome-ethereum) - Another curated list of Ethereum resources.
+- [Chain.Love](https://chain.love/ethereum) - Open-source directory and comparison tool for Ethereum RPC node providers, indexers, block explorers, bridges, faucets, security tools, and SDKs ([GitHub](https://github.com/Chain-Love/chain-love)).
 
 ## General
 - [ERC-20 Token Standard](https://ethereum.org/developers/docs/standards/tokens/erc-20/) - Official ethereum.org guide to the ERC-20 token interface.
